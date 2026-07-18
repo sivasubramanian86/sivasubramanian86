@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siva Subramanian
 
-🚀 **Test Architect | AWS Community Builder | Building AI/ML Solutions | Multi-Hackathon Finalist & Strategist | Gen AI | Agentic AI Builder | AWS | GCP | 17+ Years Industry Experience**  
+🚀 **Test Architect | AWS Community Builder | Google Cloud Generative AI Leader (GAIL) Certified | Building AI/ML Solutions | Multi-Hackathon Finalist & Strategist | Gen AI | Agentic AI Builder | AWS | GCP | 18+ Years Industry Experience**
 💼 17+ years of industry experience in QA, automation, and cloud engineering.  
 🌐 Building **compliance‑first GenAI platforms** and scalable cloud solutions.  
 
