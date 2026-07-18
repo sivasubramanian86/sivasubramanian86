@@ -7,7 +7,7 @@
 ---
 
 ## ✨ About Me
-- 🧭 **Test Architect** at Synchronoss Technologies with 17+ years in Research, Development, Quality Assurance and Cloud Engineering in Telecom domain.  
+- 🧭 **Test Architect** at Synchronoss Technologies with **18+** years in Research, Development, Quality Assurance and Cloud Engineering in Telecom domain.  
 - ☁️ Skilled in **Google Cloud Platform (GCP)**, **AWS**, and **infrastructure‑as‑code**.  
 - 💻 Strong coding background in **Java**, **Python**, **JavaScript**, **JRuby**, **Groovy**, **Shell Script**, **SpringBoot**, **RestAssured**, **Appium**, **Selenium** and **TypeScript**.
 - 💻 Strong foundation in **Spring Boot frameworks**, coupled with my knowledge of **Docker, Kubernetes, and Kafka** — the cornerstones of modern cloud‑based applications.
@@ -54,6 +54,8 @@
 
 ### 🏆My Certifications
 
+<!-- START_SECTION:badges -->
+<!-- END_SECTION:badges -->
 
 ---
 
