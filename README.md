@@ -128,7 +128,7 @@ Here are some of my recent projects (pinned on profile):
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-winning.vercel.app/?username=sivasubramanian86&theme=radical&column=7" alt="Github Profile Trophy" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=sivasubramanian86&theme=radical&column=7" alt="Github Profile Trophy" />
   </a>
 </p>
 
