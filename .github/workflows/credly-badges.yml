@@ -1,0 +1,14 @@
+name: Update Credly Badges
+on:
+  workflow_dispatch: # Allows manual triggers only
+permissions:
+  contents: write
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update Badges
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: siva-subramanian.a44c518c
