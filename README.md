@@ -1,5 +1,9 @@
 # 👋 Hi, I'm SIVASUBRAMANIAN
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/banner.svg" alt="Sivasubramanian - Compliance-First Agentic AI Architect" width="100%" />
+</p>
+
 🚀 **Test Architect | AWS Community Builder | Google Cloud Generative AI Leader (GAIL) Certified | Building AI/ML Solutions | Multi-Hackathon Winner, Finalist & Strategist | Gen AI | Agentic AI Builder | AWS | GCP | 18+ Years Industry Experience**
 💼 **18+** years of industry experience in SDLC, Agile, QA, automation, full stack and cloud engineering.  
 🌐 Building **compliance‑first GenAI platforms** and scalable cloud solutions.  
@@ -117,11 +121,13 @@ flowchart LR
 ---
 
 ## 📌 Featured Projects
-Here are some of my recent projects (pinned on profile):  
+Here are some of my recent projects (pinned on profile):
 
-- **[HealthCheckQAGenAgent](#)** – Compliance‑first QA platform for healthcare.  
-- **[StratOpsAI](#)** – Strategic operations AI with reproducible workflows.  
-- **[VerdaClimeAI](#)** – Real‑time visualization of climate & agricultural data. 
+| Project | Tech Stack | Status / Badges |
+| :--- | :--- | :--- |
+| 🛡️ **[HealthCheckQAGenAgent](#)** <br> _Compliance-first QA platform for healthcare._ | `Python` `FastAPI` `GCP` `Vertex AI` `Cloud Run` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-Vertex_AI-blue?style=flat-square&logo=googlecloud) |
+| ⚙️ **[StratOpsAI](#)** <br> _Strategic operations AI with reproducible workflows._ | `Python` `ADK` `FastAPI` `LangChain` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![Agentic](https://img.shields.io/badge/AI-Agentic-violet?style=flat-square) |
+| 🌾 **[VerdaClimeAI](#)** <br> _Real-time visualization of climate & agricultural data._ | `Next.js` `Firebase` `Tailwind` `D3.js` | ![Status](https://img.shields.io/badge/Project-Completed-blue?style=flat-square) ![Web App](https://img.shields.io/badge/Stack-Full_Stack-brightgreen?style=flat-square) |
 
 ---
 
