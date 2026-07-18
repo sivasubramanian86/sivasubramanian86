@@ -1,5 +1,3 @@
-# 👋 Hi, I'm SIVASUBRAMANIAN
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/banner.svg" alt="Sivasubramanian - Compliance-First Agentic AI Architect" width="100%" />
 </p>
@@ -107,16 +105,11 @@
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/badges/1d7d9f67-052f-44a6-a5ce-0d03b2937117)
 <!--END_SECTION:badges-->
 
----
-
 ## 📊 Innovation Stack
 
-```mermaid
-flowchart LR
-    Cloud[☁️ Cloud Engineering] --> AI[🤖 GenAI & Compliance]
-    AI --> QA[✅ Test Automation & Architecture]
-    QA --> Impact[🌍 Scalable Product & Enterprise Solutions]
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/innovation_stack.png" alt="Innovation Stack" width="100%" />
+</p>
 
 ---
 
@@ -135,7 +128,7 @@ Here are some of my recent projects (pinned on profile):
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sivasubramanian86&theme=radical&column=7" alt="Github Profile Trophy" />
+    <img src="https://github-profile-trophy-winning.vercel.app/?username=sivasubramanian86&theme=radical&column=7" alt="Github Profile Trophy" />
   </a>
 </p>
 
@@ -153,12 +146,14 @@ Here are some of my recent projects (pinned on profile):
 
 ---
 
-## 🚀 Roadmap
-- [x] Build compliance‑first GenAI QA prototype.  
-- [x] Launch hackathon‑ready demo with reproducibility.  
-- [ ] Scale HealthCheckQAGenAgent into a global healthcare QA platform.  
-- [ ] Add federated compliance learning & multilingual support.  
-- [ ] Expand portfolio with investor‑friendly case studies.  
+## 🚀 Roadmap & Milestones
+
+| Timeline | Phase | Deliverables / Goals | Status |
+| :--- | :--- | :--- | :--- |
+| **Q1-Q2 2026** | **Phase 1: Foundation** | <ul><li>[x] Build compliance-first GenAI QA prototype.</li><li>[x] Launch hackathon-ready demo with reproducibility.</li></ul> | 🟢 Completed |
+| **Q3-Q4 2026** | **Phase 2: Scale & Expand** | <ul><li>[ ] Scale `HealthCheckQAGenAgent` into a global healthcare QA platform.</li><li>[ ] Implement federated compliance learning &amp; multilingual support.</li></ul> | 🟡 In Progress |
+| **2027 & Beyond** | **Phase 3: Ecosystem** | <ul><li>[ ] Expand portfolio with investor-ready case studies.</li><li>[ ] Build multi-agent mesh orchestration models for enterprise.</li></ul> | ⚪ Planned |
+
 
 ---
 
