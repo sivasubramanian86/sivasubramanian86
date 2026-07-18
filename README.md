@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siva Subramanian
+# 👋 Hi, I'm SIVASUBRAMANIAN
 
 🚀 **Test Architect | AWS Community Builder | Google Cloud Generative AI Leader (GAIL) Certified | Building AI/ML Solutions | Multi-Hackathon Winner, Finalist & Strategist | Gen AI | Agentic AI Builder | AWS | GCP | 18+ Years Industry Experience**
 💼 **18+** years of industry experience in SDLC, Agile, QA, automation, full stack and cloud engineering.  
@@ -36,6 +36,16 @@
 ---
 
 ### 🔧 Tech Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,py,spring,docker,kubernetes,kafka,gcp,aws,terraform,git,github,vscode,idea,bash,mysql,postgres,firebase" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+#### 🛠️ Language & Framework Badges
 ![Java](https://img.shields.io/badge/Code-Java-red?logo=java)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
@@ -49,6 +59,7 @@
 ![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-blue?logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/Messaging-Kafka-black?logo=apachekafka)
 ![AI/ML](https://img.shields.io/badge/AI-ML-orange?logo=googlecloud)
+
 
 ---
 
@@ -115,10 +126,24 @@ Here are some of my recent projects (pinned on profile):
 ---
 
 ## 📊 GitHub Stats & Widgets
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivasubramanian86&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivasubramanian86&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sivasubramanian86&theme=radical)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sivasubramanian86.sivasubramanian86)  
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sivasubramanian86&theme=radical&column=7" alt="Github Profile Trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sivasubramanian86&show_icons=true&theme=radical" alt="Siva's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sivasubramanian86&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sivasubramanian86&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sivasubramanian86.sivasubramanian86" alt="Visitors" />
+</p>  
 
 ---
 
