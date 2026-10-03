@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/banner.svg" alt="Sivasubramanian - Compliance-First Agentic AI Architect" width="100%" />
+  <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/banner.svg?v=2" alt="Sivasubramanian - Enterprise Cloud Architect &amp; Compliance-First Agentic AI Leader" width="100%" />
 </p>
 
 🚀 **Google Cloud Certified - Professional Cloud Architect | Generative AI Leader (GAIL) | AWS Community Builder | Test Architect | Building Agentic AI Solutions | 18+ Years Industry Experience**  
@@ -25,12 +25,12 @@
 
 ## ✨ About Me
 - 🧭 **Test Architect & Solutions Engineer** at Synchronoss Technologies with **18+** years in Research, Development, Quality Assurance and Cloud Engineering in Telecom domain.  
-- ☁️ **Google Cloud Certified - Professional Cloud Architect** and **AWS Community Builder** specializing in enterprise-grade, compliance-driven architectures and infrastructure-as-code (Terraform).  
+- ☁️ **Google Cloud Certified - Professional Cloud Architect (PCA)** & **Google Cloud Certified - Generative AI Leader (GAIL)**, and **AWS Community Builder** specializing in enterprise-grade, compliance-driven architectures and infrastructure-as-code (Terraform).  
 - 💻 Strong coding background in **Java**, **Python**, **JavaScript**, **TypeScript**, **Groovy**, **Shell Script**, **SpringBoot**, **FastAPI**, **RestAssured**, **Appium**, and **Selenium**.
 - 🏗️ Deep expertise in **Docker, Kubernetes, Kafka, Cloud Run, and Microservices** — the cornerstones of modern cloud‑native platforms.
 - 🏆 Hackathon strategist — known for rapid prototyping, reproducible workflows, and investor‑ready storytelling.  
 - 🌍 Passionate about **compliance‑first GenAI** for healthcare and regulated industries.
-- 💬 Ask me about **test architecture, cloud engineering (GCP/AWS), agentic AI workflows, and building investor‑ready prototypes**.
+- 💬 Ask me about **cloud architecture (GCP/AWS), Generative AI (Vertex AI/GAIL), agentic AI workflows, test architecture, and building investor‑ready prototypes**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sivasubramanian86/) | [GitHub](https://github.com/sivasubramanian86)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’ve turned hackathon prototypes into full‑fledged products — and I love blending **technical rigor with business storytelling**.  
