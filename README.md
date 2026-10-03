@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/banner.svg?v=2" alt="Sivasubramanian - Enterprise Cloud Architect &amp; Compliance-First Agentic AI Leader" width="100%" />
+  <img src="https://raw.githubusercontent.com/sivasubramanian86/sivasubramanian86/main/banner.svg?v=3" alt="Sivasubramanian - Enterprise Cloud &amp; Test Architect | Compliance-First Agentic AI Leader" width="100%" />
 </p>
 
 🚀 **Google Cloud Certified - Professional Cloud Architect | Generative AI Leader (GAIL) | AWS Community Builder | Test Architect | Building Agentic AI Solutions | 18+ Years Industry Experience**  
@@ -7,6 +7,9 @@
 🌐 Building **compliance‑first GenAI & Agentic AI platforms**, multi-agent systems, and resilient cloud architectures (GCP & AWS).
 
 <p align="center">
+  <a href="https://github.com/sivasubramanian86" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Role-Test_Architect-00C7B7?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Test Architect" />
+  </a>
   <a href="https://www.credly.com/badges/1765bb15-904b-4dd0-b431-c8810b12c942" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Professional Cloud Architect" />
   </a>
