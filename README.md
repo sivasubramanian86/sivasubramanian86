@@ -221,12 +221,23 @@ Here are some of my recent projects:
 
 | Project | Tech Stack | Status / Badges |
 | :--- | :--- | :--- |
+| 🪔 **[FestivaPulseAI](https://github.com/sivasubramanian86/FestivaPulseAI)** <br> _Autonomous Indian Celebration Resilience Copilot & Day-of-Event Operating System._ | `Python` `Google Cloud ADK` `Gemini 2.5 Flash` `Imagen 3` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![AI](https://img.shields.io/badge/AI-6--Agent_Swarm-gold?style=flat-square) |
 | ⚡ **[CycloNerveAI](https://github.com/sivasubramanian86/CycloNerveAI)** <br> _Global Cascade Intelligence Platform._ | `Python` `Vertex AI` `Cloud Run` `Agentic AI` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![AI](https://img.shields.io/badge/AI-Agentic-violet?style=flat-square) |
 | ⚖️ **[ClausaFractalAI](https://github.com/sivasubramanian86/ClausaFractalAI)** <br> _Enterprise Neuro-Symbolic Agent Mesh for Autonomous Legal Intelligence._ | `Python` `LangGraph` `MCP` `Vertex AI` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-Vertex_AI-blue?style=flat-square&logo=googlecloud) |
 | 🏟️ **[ArenaPulseAI](https://github.com/sivasubramanian86/arena-pulse-ai)** <br> _FIFA World Cup 2026 Smart Stadium OS with Vertex AI & Graph RAG._ | `Python` `Graph RAG` `Vertex AI` `ADK` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![AI](https://img.shields.io/badge/AI-Multi_Agent-orange?style=flat-square) |
 | 🌾 **[HarveLogixAI](https://github.com/sivasubramanian86/harve-logix-ai)** <br> _Intelligent Post-Harvest Logistics & Multi-Agent Supply Chain Orchestration._ | `Python` `FastAPI` `Agentic AI` `GCP` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![Web App](https://img.shields.io/badge/Stack-Full_Stack-brightgreen?style=flat-square) |
 | 🎬 **[ThiraiKuzhuAI](https://github.com/sivasubramanian86/ThiraiKuzhuAI)** <br> _Autonomous multi-agent filmmaking & production pipeline._ | `TypeScript` `Cloud Run` `Firebase` `Gemini` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![Cloud](https://img.shields.io/badge/GCP-Cloud_Run-4285F4?style=flat-square&logo=googlecloud) |
 | 🛡️ **[HealthCheckQAGenAgent](https://github.com/sivasubramanian86)** <br> _Compliance-first QA platform for healthcare & regulated industries._ | `Python` `FastAPI` `GCP` `Vertex AI` `Cloud Run` | ![Status](https://img.shields.io/badge/Project-Active-success?style=flat-square) ![GCP](https://img.shields.io/badge/GCP-Vertex_AI-blue?style=flat-square&logo=googlecloud) |
+
+---
+
+## 🛡️ Intellectual Property, Provenance & Open Showcase Notice
+
+All software architectures, agentic systems, algorithms, and documentation published across this profile are the original intellectual property of **Sivasubramanian** (unless explicitly marked as a fork). 
+
+- 🌐 **Portfolio & Inspection Grant:** All public repositories are published for open review, portfolio evaluation, and non-commercial educational inspection.
+- 🚫 **Competition & Plagiarism Restriction:** Reproducing, squashing, re-hosting, or submitting any repository or derived work from this profile to any hackathon, competition, or academic evaluation under another identity is strictly prohibited.
+- ⚖️ **Enforcement:** Unauthorized contest submissions and plagiarized copies are actively monitored and subjected to immediate GitHub DMCA takedowns and competition organizer reporting.
 
 ---
 
